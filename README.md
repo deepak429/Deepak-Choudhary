@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/deepak429/Deepak-Choudhary/blob/main/FrontEnd%20developer.png?raw=true)(https://github.io)]
 <h1 align="center">Hi 👋, I'm Deepak Choudhary</h1>
 <h3 align="center">👋 Hi, I'm Deepak! A 3rd-year BCA student and passionate front-end developer with experience in HTML, CSS, JavaScript, and React.js. I'm currently exploring backend development with JavaScript and Next.js, and working on projects like an e-commerce app.</h3>
 <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="right"  width="380" />
